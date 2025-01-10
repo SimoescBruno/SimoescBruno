@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @SimoescBruno
-- 👀 I’m interested in Cloud Security
-- 🌱 I’m currently learning Oracle Cloud, AWS, Azure and Python 
-- 💞️ I’m looking to collaborate on Oracle Cloud
-- 📫 How to reach me ...
+- 👀 I’m looking to collaborate on AWS or k8s
 
 <!---
 SimoescBruno/SimoescBruno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
